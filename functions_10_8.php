@@ -30,7 +30,7 @@ switch ($marks_per) {
     
 
     
-}
+  }
 		
 	return $grade;
 }
