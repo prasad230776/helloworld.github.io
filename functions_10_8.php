@@ -28,7 +28,9 @@ switch ($marks_per) {
        $grade='E(Needs Improvement)';
         break;
     
-
+case default:
+       $grade='F(Pl.see that the student is regular)';
+        break;
     
   }
 		
